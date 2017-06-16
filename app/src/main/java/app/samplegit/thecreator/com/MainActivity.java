@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //Super code HhHHhhHHhshshdhdhdsdgvbdfsg
         String a="b";
         a="dbdb";
+        b = "Akshath";
     }
 }
